@@ -1,5 +1,6 @@
 import React from "react"
 import RepositoryList from "../components/RepositoryList"
+import { graphql } from "gatsby"
 
 const Index = ({ data }) => (
   <div>
