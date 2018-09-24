@@ -8,8 +8,8 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "./gatsby.tgz",
-    "gatsby-source-graphql": "file:./gatsby-source-graphql.tgz",
+    "gatsby": "latest",
+    "gatsby-source-graphql": "latest",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   },
